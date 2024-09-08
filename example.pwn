@@ -27,23 +27,12 @@ public OnPlayerSpawn(playerid) {
 
 
 
-public OnPlayerDeath(playerid, killerid, reason) {
- 
-    return 1;
-}
-
 public OnGameModeInit() {
     
    
     return 1;
 }
 
-
-public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
-{
-	
-	return 1;
-}
 
 
 cmd:test(playerid)
