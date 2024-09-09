@@ -2,9 +2,12 @@
 
 **Development and Build**
 
-Created by [ailishev](https://vk.com/mystecode)
+Created by (c) [ailishev](https://vk.com/mystecode)
 
 ---
+
+[![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest](https://github.com/ailishev/coremod-release-plugin/releases/))
+[![GitHub Release](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg?maxAge=86400)](https://github.com/ailishev/coremod-release-plugin)
 
 ## Overview
 
