@@ -56,6 +56,13 @@ SetInfoArizonaHudSA(playerid, serverNumber, const title[], const project[], cons
 CallEventInterface(playerid, const event[]);
 CreateCustomBrowser(playerid, browserid, const url[]);
 SetPlayerCollision(playerid, bool:isCollision);
+ShowYouTubeVideoPhone(playerid, const url[]); 
+HideYoutubeVideoPhone(playerid);
+
+SetVehTuningSmoke(playerid, vehicleid, color1, color2, color3); 
+SetVehTuningNumber(playerid, vehicleid, type, const number[], const region[]);
+SetVehTuningLight(playerid, vehicleid, color1, color2, color3, color4);
+SetVehTuningNeon(playerid, vehicleid, color1, color2, color3);
 
 ```
 
