@@ -12,6 +12,14 @@ CoreMod is a powerful plugin designed to bring advanced interface integrations f
 
 ---
 
+## Server.cfg
+
+In this version, the plugin will only work on the 127.0.0.1 IP address.
+
+```
+bind 127.0.0.1
+```
+
 ## Key Features
 
 - **Arizona RP Interface Integration**  

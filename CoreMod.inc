@@ -32,3 +32,13 @@ native SetInfoArizonaHudSA(playerid, serverNumber, const title[], const project[
 native CallEventInterface(playerid, const event[]); // Call custom events
 native CreateCustomBrowser(playerid, browserid, const url[]); // Create a browser for the player
 native SetPlayerCollision(playerid, bool:isCollision); // Set player transparency: 0 - Disable | 1 - Enable
+native ShowYouTubeVideoPhone(playerid, const url[]); // Show youtube video for phone
+native HideYoutubeVideoPhone(playerid); // Remove video youtube 
+
+// arizona tuning
+
+
+native SetVehTuningSmoke(playerid, vehicleid, color1, color2, color3); 
+native SetVehTuningNumber(playerid, vehicleid, type, const number[], const region[]);
+native SetVehTuningLight(playerid, vehicleid, color1, color2, color3, color4);
+native SetVehTuningNeon(playerid, vehicleid, color1, color2, color3);
