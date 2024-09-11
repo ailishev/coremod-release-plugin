@@ -1,4 +1,5 @@
-[CoreMod - SAMP 0.3.7 R3 Plugin][https://github.com/ailishev/coremod-release-plugin]
+[CoreMod - SAMP 0.3.7 R3 Plugin][github]
+====================================================================================
 
 **Development and Build**
 
@@ -87,3 +88,5 @@ To install CoreMod, follow these steps:
 ## Information version
 
 - This paste is Beta Version some function may not working.
+
+[github]: https://github.com/ailishev/coremod-release-plugin
