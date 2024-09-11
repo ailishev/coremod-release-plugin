@@ -1,4 +1,4 @@
-# CoreMod
+[CoreMod - SAMP 0.3.7 R3 Plugin][https://github.com/ailishev/coremod-release-plugin]
 
 **Development and Build**
 
