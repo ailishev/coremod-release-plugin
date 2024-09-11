@@ -92,3 +92,5 @@ To install CoreMod, follow these steps:
 [github]: https://github.com/ailishev/coremod-release-plugin
 [version]: https://github.com/ailishev/coremod-release-plugin/releases
 [build]: https://ci.appveyor.com/project/ailishev/coremod-release-plugin/branch/master
+[build_status]: https://ci.appveyor.com/api/projects/status/6yjciskchdrsqud7/branch/main?svg=true
+[version_badge]: https://badge.fury.io/gh/ailishev%2Fcoremod-release-plugin.svg
