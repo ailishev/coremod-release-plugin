@@ -7,7 +7,7 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 
 ---
 
-[![Version][version_badge]][version]
+[![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest) 
 [![Build Status][build_status]][build]
 
 ## Overview
