@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [CoreMod - SAMP 0.3.7 R3 Plugin][github]
 ====================================================================================
 
@@ -10,6 +10,8 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 
 [![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest) 
 [![Build Status][build_status]][build]
+[![GitHub All Releases](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases)
+[![GitHub Release Downloads](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/latest/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest)
 
 ## Overview
 
