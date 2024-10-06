@@ -55,18 +55,31 @@ Village_Interface(playerid, interface, value);
 
 ```pawn
 
-Arizona_Interface(playerid, interface, value);
-SetInfoArizonaHudSA(playerid, serverNumber, const title[], const project[], const type[], online, flag, logo, multiplier);
-CallEventInterface(playerid, const event[]);
-CreateCustomBrowser(playerid, browserid, const url[]);
-SetPlayerCollision(playerid, bool:isCollision);
+Arizona_Interface(playerid, interface, value); 
+SetInfoArizonaHudSA(playerid, serverNumber, const title[], const project[], const type[], online, flag, logo, multiplier); 
+CallEventInterface(playerid, const event[]); 
+CreateCustomBrowser(playerid, browserid, const url[]); 
+SetPlayerCollision(playerid, bool:isCollision); 
 ShowYouTubeVideoPhone(playerid, const url[]); 
-HideYoutubeVideoPhone(playerid);
+HideYoutubeVideoPhone(playerid); 
 
 SetVehTuningSmoke(playerid, vehicleid, color1, color2, color3); 
 SetVehTuningNumber(playerid, vehicleid, type, const number[], const region[]);
 SetVehTuningLight(playerid, vehicleid, color1, color2, color3, color4);
 SetVehTuningNeon(playerid, vehicleid, color1, color2, color3);
+SetVehTuningWheelSize(playerid, vehicleid, wheelSize);
+
+//other
+
+SendPlayerConnectServer(playerid, const adress[], const name[], const password[]); 
+
+```
+
+### Arizona Mobile:
+
+```pawn
+
+CallEventMobile(playerid, const eventType[], const eventText[]);
 
 ```
 
