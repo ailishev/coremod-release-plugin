@@ -1,4 +1,5 @@
-# CoreMod
+[CoreMod - SAMP 0.3.7 R3 Plugin][github]
+====================================================================================
 
 **Development and Build**
 
@@ -6,8 +7,8 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 
 ---
 
-[![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest](https://github.com/ailishev/coremod-release-plugin/releases/))
-[![GitHub Release](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg?maxAge=86400)](https://github.com/ailishev/coremod-release-plugin)
+[![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest) 
+[![Build Status][build_status]][build]
 
 ## Overview
 
@@ -87,3 +88,9 @@ To install CoreMod, follow these steps:
 ## Information version
 
 - This paste is Beta Version some function may not working.
+
+[github]: https://github.com/ailishev/coremod-release-plugin
+[version]: https://github.com/ailishev/coremod-release-plugin/releases
+[build]: https://ci.appveyor.com/project/ailishev/coremod-release-plugin/branch/master
+[build_status]: https://ci.appveyor.com/api/projects/status/6yjciskchdrsqud7/branch/main?svg=true
+[version_badge]: https://badge.fury.io/gh/ailishev%2Fcoremod-release-plugin.svg

@@ -9,7 +9,8 @@ main() {}
 
 public OnPlayerConnect(playerid) {
 
-    CreateCustomBrowser(playerid, 1, "file:///frontend/svelte_js/index.html");
+    // теперь загружается автоматически
+    // CreateCustomBrowser(playerid, 1, "file:///frontend/svelte_js/index.html");
 
     return 1;
 }
