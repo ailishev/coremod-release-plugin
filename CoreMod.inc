@@ -1,3 +1,9 @@
+/*
+ * CoreMod Include File
+ * Created by: ailishev
+ * Plugin version: v1.1.1
+ */
+
 enum {
 	VILLAGE_HUD, // Custom HUD: 0 - Off | 1 - Custom (1) | 2 - Custom (2)
 	VILLAGE_RADAR, // Custom Radar: 0 - Off (standard display) | 1 - Custom (1) | 2 - Custom (2)
