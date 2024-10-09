@@ -1,7 +1,7 @@
 /*
  * CoreMod Include File
  * Created by: ailishev
- * Plugin version: v1.1.1
+ * Plugin version: v1.1.2
  */
 
 enum {
