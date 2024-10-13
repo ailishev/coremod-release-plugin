@@ -1,8 +1,15 @@
 /*
  * CoreMod Include File
  * Created by: ailishev
- * Plugin version: v1.1.1
+ * Plugin version: v1.1.3
  */
+
+#define DISABLE_NUMBERPLATE (0)
+#define COUNTRY_KZ_NUMBERPLATE (1)
+#define COUNTRY_RU_NUMBERPLATE (2)
+#define COUNTRY_UA_NUMBERPLATE (3)
+#define COUNTRY_BY_NUMBERPLATE (4)
+#define COUNTRY_NONE_NUMBERPLATE (5)
 
 enum {
 	VILLAGE_HUD, // Custom HUD: 0 - Off | 1 - Custom (1) | 2 - Custom (2)
@@ -37,7 +44,8 @@ native Arizona_Interface( playerid, interface, value );
 native SetInfoArizonaHudSA( playerid, serverNumber, const title[], const project[], const type[], online, flag, logo, multiplier );
 native CallEventInterface( playerid, const event[] );
 native CreateCustomBrowser( playerid, browserid, const url[] );
-native SetPlayerCollision( playerid, bool : isCollision );
+native SetFocusBrowser( playerid, browserid, bool: toggle );
+native SetPlayerCollision( playerid, bool: isCollision );
 native ShowYouTubeVideoPhone( playerid, const url[] );
 native HideYoutubeVideoPhone( playerid );
 
