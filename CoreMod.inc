@@ -1,7 +1,11 @@
 /*
  * CoreMod Include File
  * Created by: ailishev
+<<<<<<< HEAD
  * Plugin version: v1.1.3
+=======
+ * Plugin version: v1.1.2
+>>>>>>> d9ef4b5bf0956607806e7a2c11b2ef0bdb8da3a6
  */
 
 #define DISABLE_NUMBERPLATE (0)
