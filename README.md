@@ -10,11 +10,10 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 
 [![GitHub Release](https://img.shields.io/github/release/ailishev/coremod-release-plugin.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest) 
 [![Build Status][build_status]][build]
-[![GitHub All Releases](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases) 
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/latest/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">  
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"><br><br>  
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">  
 <img src="https://img.shields.io/github/license/ailishev/coremod-release-plugin?logo=mit">  
 <img src="https://img.shields.io/github/stars/ailishev/coremod-release-plugin?logo=github">  
 <img src="https://img.shields.io/github/issues/ailishev/coremod-release-plugin?logo=github">  
@@ -22,7 +21,7 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 <a href="https://github.com/ailishev/coremod-release-plugin/issues">  
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">  
 </a>  
-<a href="#"><img src="https://badge.fury.io/gh/tterb%2FHyde.svg"></a> 
+<a href="#"><img src="https://badge.fury.io/gh/tterb%2FHyde.svg"></a>  
 
 ## Overview
 
