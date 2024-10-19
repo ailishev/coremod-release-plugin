@@ -13,6 +13,17 @@ Created by (c) [ailishev](https://vk.com/mystecode)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases)
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/ailishev/coremod-release-plugin/latest/total.svg)](https://github.com/ailishev/coremod-release-plugin/releases/latest)
 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">  
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"><br><br>  
+<img src="https://img.shields.io/github/license/ailishev/coremod-release-plugin?logo=mit">  
+<img src="https://img.shields.io/github/stars/ailishev/coremod-release-plugin?logo=github">  
+<img src="https://img.shields.io/github/issues/ailishev/coremod-release-plugin?logo=github">  
+<img src="https://komarev.com/ghpvc/?username=ailishev&label=Visitors&color=0e75b6&style=flat"/>  
+<a href="https://github.com/ailishev/coremod-release-plugin/issues">  
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">  
+</a>  
+<a href="#"><img src="https://badge.fury.io/gh/tterb%2FHyde.svg"></a> 
+
 ## Overview
 
 CoreMod is a powerful plugin designed to bring advanced interface integrations from the Arizona Games project (San Andreas Multiplayer) into your game mod. This free release offers a glimpse into a more comprehensive plugin currently in development, allowing you to replicate and utilize interfaces from popular projects like Arizona Role Play and Village RP (Bone County). Future updates will expand the plugin with new content and features.
